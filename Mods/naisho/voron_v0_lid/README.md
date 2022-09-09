@@ -7,7 +7,7 @@ Attach lid to the core with M3 screws, then press the lid into the frame extrusi
 
 Lid has cutout to run fan wires, which can pass through the side of the Z extrusion to the electronics compartment.
 
-![Photo](voron_v0_lid/Images/photo.jpg)
+![Photo](Images/photo.jpg)
 
 # BOM
 - cartidge_lid.stl
@@ -18,5 +18,5 @@ Lid has cutout to run fan wires, which can pass through the side of the Z extrus
 - M3 tap (optional)
 
 # Model Images
-![Model (top view)](voron_v0_lid/Images/model_top.png)
-![Model (bottom view)](voron_v0_lid/Images/model_bottom.png)
+![Model (top view)](Images/model_top.png)
+![Model (bottom view)](Images/model_bottom.png)
