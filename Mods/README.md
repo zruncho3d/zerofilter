@@ -19,5 +19,5 @@ like so:
 | Creator | Mod title | Description |
 | --- | --- | --- |
 | Finn2708 | [Lightweight_brace](https://github.com/zruncho3d/zerofilter/tree/main/Mods/Finn2708/Lightweight_brace) | Lightweight Front/Rear Brace | 
-
+| naisho | [voron_v0_lid](https://github.com/zruncho3d/zerofilter/tree/main/Mods/naisho/voron_v0_lid) | Lid to mount single zerofilter in Voron v0.1 | 
 ---
